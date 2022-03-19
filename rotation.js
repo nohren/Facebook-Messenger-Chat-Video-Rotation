@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  A script to rotate the video chat window. For instance, a mobile user can rotate their phone to landscape and their rear facing camera will display their image sideways on your screen.  This is the way to fix that.
 // @author       nohren
+// @license      MIT; https://raw.githubusercontent.com/nohren/Facebook-Messenger-Chat-Video-Rotation/main/LICENSE
 // @match        https://www.facebook.com/groupcall/*
 // @grant        none
 // ==/UserScript==
